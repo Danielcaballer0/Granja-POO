@@ -83,8 +83,8 @@ pip install pygame
 
 1. **Clona el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/simulador-granja-poo.git
-cd simulador-granja-poo
+git clone https://github.com/Danielcaballer0/Granja-POO.git
+cd Granja-POO
 ```
 
 2. **Instala las dependencias**
